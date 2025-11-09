@@ -1,1 +1,1 @@
-console.log(progress.argv[2] 'is' progress.argv[3]);
+console.log(`${process.argv[2]} is ${process.argv[3]}`);
